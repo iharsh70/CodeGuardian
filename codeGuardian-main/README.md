@@ -4,9 +4,7 @@
 CodeGuardian is a powerful VSCode extension that helps developers write secure code by providing real-time vulnerability detection and comprehensive security insights. Powered by local AI through LMStudio, it analyzes your code without compromising privacy or performance.
 
 ### Authors:
-- **[Gokuleshwaran Narayanan](https://www.github.com/gokulnpc)** - Computer Scientist
-- **[Adithyah Nair](https://www.github.com/adithyahnair)** - Computer Scientist
-
+- ** [Harsh C Immadi] - iharsh70
 ## Repository Contents
 This repository contains the core TypeScript files responsible for CodeGuardian's functionality:
 - `analyzer.ts`: Handles the static code analysis and vulnerability detection.
